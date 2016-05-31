@@ -46,7 +46,7 @@ header ul li {
 
 footer {
     width: 1200px;
-    height: 50px;
+    height: auto　!important;
     margin: 0 auto 0 auto;
     background-color: #0b303b;
 }
