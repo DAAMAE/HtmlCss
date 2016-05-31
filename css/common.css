@@ -46,7 +46,10 @@ header ul li {
 
 footer {
     width: 1200px;
-    height: auto　!important;
+    height: 80px;
     margin: 0 auto 0 auto;
     background-color: #0b303b;
+    
+    bottom: 0;           /* フッターを一番下に置くぜ！ */
+
 }
