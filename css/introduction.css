@@ -6,6 +6,7 @@
 #info2{
     float: left;;
     width: 480px;
+    font-style: oblique;
 }
 #wrapper2 {
     width: auto;
