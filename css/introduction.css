@@ -5,6 +5,12 @@
 }
 #info2{
     float: left;;
-    width: auto;;
-
+    width: 480px;
+}
+#wrapper2 {
+    width: auto;
+    height: auto;
+    margin: 0 auto 0 auto;
+    background-color: #ffffff;
+    overflow: hidden;
 }
