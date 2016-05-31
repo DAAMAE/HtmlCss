@@ -1,21 +1,23 @@
-#wrappar{
+#wrapper {
     width: 1200px;
     height: auto;
     margin: 0 auto 0 auto;
     background-color: #ffffff;
     overflow: hidden;
 }
-#wrappar #main-image{
+
+#wrapper #main-image {
     width: 1200px;
-    height:400px;
+    height: 400px;
 }
-#wrappar #info{
+
+#wrapper #info {
     float: left;
     width: 800px;
-    height: 30px;
+    height: 300px;
     margin: 20px 0 30px 30px;
 }
-#wrappar #info h2{
+#wrapper #info h2 {
     width: 790px;
     height: 50px;
     line-height: 50px;
@@ -24,38 +26,39 @@
     color: #0b303b;
     background-color: #28a6cc;
 }
-#wrappar #info div{
+#wrapper #info div {
     width: 798px;
     height: 249px;
     border: 1px solid #408ca3;
 }
-#wrappar #info div a{
+#wrapper #info div p {
     font-size: 23px;
     padding: 0 0 0 20px;
     text-decoration: underline;
 }
-#wrappar #category{
-    float:right;
+
+#wrapper #category {
+    float: right;
     width: 150px;
     margin: 20px 100px 30px 0;
     border: 1px solid #408ca3;
-
 }
-#wrappar #category li{
+#wrapper #category li {
     width: 150px;
     height: 50px;
     line-height: 50px;
     color: #394548;
 }
-#page-top{
+
+#wrapper #page-top {
     position: fixed;
-    bottom: 20px;
-    right: 20px;
+    bottom: 30px;
+    right: 30px;
     width: 50px;
     height: 50px;
     background-color: #030304;
 }
-#page-top p{
+#wrapper #page-top p {
     width: 50px;
     height: 50px;
     line-height: 50px;
