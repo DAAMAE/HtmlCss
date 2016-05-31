@@ -10,6 +10,13 @@
     width: 1200px;
     height: 600px;
 }
+div.content{
+    float: left;
+    width: 200px;
+    height: 200px;
+    background-color: #408ac3;
+    margin: 50px;
+}
 
 #wrapper #info {
     float: right;
