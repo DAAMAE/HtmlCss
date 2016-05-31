@@ -14,6 +14,12 @@ header div{
     margin: 0 auto 0 auto;
 
 }
+header .boxContainer{
+    width: 200px;
+    height: 200px;
+    color: #408ca3;
+	float: left;
+}
 header div h1 {
     height: 60px;
     line-height: 60px;
@@ -28,7 +34,7 @@ header nav{
 header ul {
     width: 1200px;
     height: 40px;
-    margin: 0 auto;
+    margin: 0 0;
     padding: 0;
     background-color: #394548;
 }
